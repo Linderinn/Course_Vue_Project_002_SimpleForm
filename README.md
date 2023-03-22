@@ -9,7 +9,7 @@ A form with the name and surname along with showing the entered data- Vue.js cou
 
 ## Welcome! 👋
 
-Course exercise- 01
+Course exercise- 02
 
 ## The challenge
 
